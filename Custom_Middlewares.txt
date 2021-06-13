@@ -1,0 +1,5 @@
+Middleware'ler:
+
+1) Kullanıcının ip adresini ve sitede geçirdiği süreyi database'e ekleyen bir middleware 
+2) Sitesine yüklenen içeriğin harflerini büyük harfe çeviren middleware
+3) Sitenin kullanıcı dilini başka bir dile çeviren middleware 
